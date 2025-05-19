@@ -38,6 +38,5 @@ This is a React application that lets you write, run, and save Python code direc
   ```bash
   npm start
 
----
 
 4. Open your browser and navigate to `http://localhost:3000`
