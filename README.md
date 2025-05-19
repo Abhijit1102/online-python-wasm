@@ -18,8 +18,6 @@ This is a React application that lets you write, run, and save Python code direc
 ## Demo
 
 ![Demo Screenshot](./demo-screenshot.png)  
-*(Add a screenshot of the app here)*
-
 ---
 
 ## Installation
@@ -29,18 +27,17 @@ This is a React application that lets you write, run, and save Python code direc
    ```bash
    git clone https://github.com/yourusername/python-browser-wasm.git
    cd python-browser-wasm
-```
 
 2. Install dependencies:
 
   ```bash
-    npm install
-```
+  npm install
 
 Run the app locally:
 
-```bash
-npm start
+  ```bash
+  npm start
 
-```
+---
+
 4. Open your browser and navigate to http://localhost:3000
