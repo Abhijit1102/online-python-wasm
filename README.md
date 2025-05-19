@@ -30,14 +30,14 @@ This is a React application that lets you write, run, and save Python code direc
 
 2. Install dependencies:
 
-  ```bash
-  npm install
+   ```bash
+   npm install
 
-Run the app locally:
+3. Run the app locally:
 
   ```bash
   npm start
 
 ---
 
-4. Open your browser and navigate to http://localhost:3000
+4. Open your browser and navigate to `http://localhost:3000`
